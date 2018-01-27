@@ -1,0 +1,25 @@
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i
+dl, dt, dd, ul, li,
+fieldset, from, label, legend,
+table, caption, tbody, tfoot, thread, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video{
+  margin: 0;
+}
+body{
+
+}
+article, aside, details,figcaption, figure,
+footer, header, hgroup, menu,nav, section{
+
+}
+
+
+
